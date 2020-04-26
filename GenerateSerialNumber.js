@@ -26,7 +26,7 @@ function acakSerial(panjangSerial) {
     serialNumber = "";
   }
   //Menanmpilkan Array dengan index
-  arraySerial.forEach(function (item, index, array) {
+  arraySerial.forEach(function (item, index) {
     console.log(index, item);
   });
 }
