@@ -7,3 +7,6 @@ Belajar Javascript
 ```bash
 node GenerateSerialNumber.js
 ```
+```bash
+node SortRange.js
+```
